@@ -12,6 +12,7 @@ namespace GITHUB_test
         {
             Console.WriteLine("Test af Git Branch");
             Console.WriteLine("hej");
+            Console.WriteLine("er på develop branch");
         }
     }
 }
